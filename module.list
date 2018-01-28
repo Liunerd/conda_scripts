@@ -1,0 +1,12 @@
+[DEFAULT]
+
+[MACHINE_LEARNING]
+numpy=numpy
+sklearn=scikit-learn
+pandas=pandas
+matplotlib=matplotlib
+scipy=scipy
+
+[WEB_CRAWLER]
+bs4=beautifulsoup4
+urllib3=urllib3
